@@ -4,4 +4,4 @@
 d
 d
 d
-sciwaymember.github.io/plaintext/sos.txt
+https://sciwaymember.github.io/plaintext/sos.txt

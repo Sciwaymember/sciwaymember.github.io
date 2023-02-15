@@ -45,6 +45,12 @@ img {
     width: 70%;
 }
 
+.article_element_1,
+.article_element_2,
+.article_element_3{
+    margin-bottom: 7%;
+}
+
 h1 {
     padding: 0;
 }
@@ -88,10 +94,15 @@ h2 {
     color: orange;
 }
 
+.side_bar_info{
+    padding-top: 10%;
+    padding-right: 10%;
+}
 
 .side_bar_element {
     padding-left: 8%;
     margin-left: 10%;
+    margin-top: 10%;
     min-width: 90%;
     width: 90%;
 }

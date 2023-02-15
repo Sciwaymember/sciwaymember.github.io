@@ -15,7 +15,7 @@ Experience:
 Practiced .NET full stack in team on real project at Ukraine company(NIX) office in Kharkiv for a ~month
 Logist in Rocket company for a six month
     
-    Projects:
+Projects:
 https://github.com/Sciwaymember/ITProjectThatWeHaveWantedForALongTime
 
 Skills:

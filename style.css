@@ -1,5 +1,8 @@
+html{
+    box-sizing: content-box;
+}
+
 img{ 
-    display: block;
     width: 100%;
 }
 

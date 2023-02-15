@@ -12,15 +12,14 @@ img{
 
 .page_info{
     padding: 10px;
+    width: 70%;
 }
 
 .side_bar{
     float: right;
     width: 30%;
-}
-
-.page_info {
-    width: 70%;
+    background-color:darkslategray;
+    color: whitesmoke
 }
 
 .article {
@@ -74,10 +73,6 @@ h2{
     color: rgb(71, 69, 69);
 }
 
-.side_bar{
-    background-color:darkslategray;
-    color: whitesmoke
-}
 
 .side_bar li::marker{
     color: orange;
@@ -85,7 +80,7 @@ h2{
 
 .side_bar_element{
     padding-left: 20px;
-    width: 300px;
+    width: 90%;
 }
 
 .education_link{color: orange;}

@@ -64,6 +64,10 @@ img {
     font-weight: bold;
 }
 
+table{
+    border-spacing: 20px 20px;
+}
+
 .self_description {
     color: rgb(71, 69, 69);
 }

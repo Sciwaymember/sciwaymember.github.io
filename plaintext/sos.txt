@@ -1,5 +1,5 @@
 Profile:
-Name: Vladimir Fomenkov
+Name: Volodymyr Fomenkov
 Age: 23
 Country: Ukraine
 City: Lviv
@@ -24,19 +24,19 @@ Skills:
   Understanding principles of CLR, .NET Core
   Ability to develop with ASP.NET and EF Core  
   Understandings OOP and basic design patterns  
-SQL, Transact-SQL, Sql management studio
+SQL, Transact-SQL, MSSQL, management studio, azure studio with docker
 Web-technologies(HTTP(S), DNS, TCP/IP, URL)
 Chrome Developer Tools  
 Understanding the basics of React.js
 
 Additional skills: 
 English B1 (Intermediate)
-Structural learning using scientific approach
+Conscious learning using scientific approach
 Critical thinking
 Creative approach to solving non traditional tasks
 Ability to use attention resources economically and efficiently
 Extensional skills (Verbal awareness)
 
 About myself:
-I know exactly where I am going and what I am striving for, and working in an IT company is one of the stages of my conscious and purposeful path. I am interested in continuous, lasting self-development. I approach the organization of my daily activities responsibly. I am interested in the development of AI - technologies, automation and getting rid of a person from routine work.
-I apply the scientific method in my daily life and steadily expand my horizons. I am interested in the general theory of evaluation and focus on facts, not empty words.
+I know exactly where I am going and striving for, and working in an IT company is one of the stages of my conscious and purposeful path. I am interested in continuous, lasting self-development. I approach the organization of my daily activities responsibly. I am interested in the development of AI - technologies, automatization and getting rid of routine work for humanity.
+I apply the scientific method in my daily life and steadily expand my horizons. I am interested in the general theory of evaluation and rely on facts, not empty words.

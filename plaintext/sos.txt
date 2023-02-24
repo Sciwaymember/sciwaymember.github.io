@@ -25,9 +25,7 @@ Skills:
   Ability to develop with ASP.NET and EF Core  
   Understandings OOP and basic design patterns  
 SQL, Transact-SQL, MSSQL, management studio, azure studio with docker
-Web-technologies(HTTP(S), DNS, TCP/IP, URL)
-Chrome Developer Tools  
-Understanding the basics of React.js
+Understanding the basics of React.js, React.ts
 
 Additional skills: 
 English B1 (Intermediate)

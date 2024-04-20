@@ -1,14 +1,15 @@
 Profile:
 Name: Volodymyr Fomenkov
-Age: 23
+Age: 25
 Country: Ukraine
-City: Lviv
+City: Kyiv
   Contacts:
    MailTo: fomenkov.cmds@gmail.com
-   tel: +380635015085
+   tel: +380930876119
 
 Education:
-Actual undergraduate of KGPA (Kharkov Pedagogical Academy) informatics specialty
+Master's degree student of informatics specialty
+Graduate bachelor of KGPA (Kharkov Pedagogical Academy) informatics specialty
 2 years at the Kharkiv Polytechnic Institute, faculty of Computer science, Applied Math speciality
 
 Experience: 
@@ -16,11 +17,12 @@ Practiced .NET full stack in team on real project at Ukraine company(NIX) office
 Logist in Rocket company for a six month
     
 Projects:
-https://github.com/Sciwaymember/ITProjectThatWeHaveWantedForALongTime
+https://github.com/Sciwaymember/SocioLife1
+https://github.com/Sciwaymember/TLibrary.BookSearchService
 
 Skills:
 .NET
-  Knowledge of C#
+  Knowledge of C#, Python basics
   Understanding principles of CLR, .NET Core
   Ability to develop with ASP.NET and EF Core  
   Understandings OOP and basic design patterns  
@@ -36,5 +38,5 @@ Ability to use attention resources economically and efficiently
 Extensional skills (Verbal awareness)
 
 About myself:
-I know exactly where I am going and striving for, and working in an IT company is one of the stages of my conscious and purposeful path. I am interested in continuous, lasting self-development. I approach the organization of my daily activities responsibly. I am interested in the development of AI - technologies, automatization and getting rid of routine work for humanity.
+I know exactly where I am going and striving for. I am interested in continuous, lasting self-development. I approach the organization of my daily activities responsibly. I am interested in the development of AI - technologies, automatization and getting rid of routine work for humanity.
 I apply the scientific method in my daily life and steadily expand my horizons. I am interested in the general theory of evaluation and rely on facts, not empty words.
